@@ -16,9 +16,9 @@ After normalizing the raw number by the scale of the city (in this case, we use 
 - [2017 Employment Status Survey](https://www.e-stat.go.jp/dbview?sid=0003222943)
 
 ## Repo Guide
-[Pre-pitch Repo](https://github.com/code4journalism/regressions-pre-pitch-naokatoh)
-[Exploratory Notebook](https://github.com/AngelineJCQ/project-japan-young-pop-movement/blob/main/Clean-and-Exploratory-Data-Analysis.ipynb)
-[Final Data Diary Notebook](https://github.com/AngelineJCQ/project-japan-young-pop-movement/blob/main/Data-Diary-for-Final-Project.ipynb)
+- [Pre-pitch Repo](https://github.com/code4journalism/regressions-pre-pitch-naokatoh)
+- [Exploratory Notebook](https://github.com/AngelineJCQ/project-japan-young-pop-movement/blob/main/Clean-and-Exploratory-Data-Analysis.ipynb)
+- [Final Data Diary Notebook](https://github.com/AngelineJCQ/project-japan-young-pop-movement/blob/main/Data-Diary-for-Final-Project.ipynb)
 
 
 
